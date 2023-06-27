@@ -27,7 +27,7 @@ public class StudentsGroupService extends Service{
 
     @Override
     public void create() {
-
+        StudentGroup tempLink = getController().getApp().
 
     }
 
